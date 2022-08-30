@@ -1,5 +1,8 @@
 # PowerFlex-CSI-OpenShift-Console
 
+## Youtube video:
+- https://youtu.be/tRij5C9N9T4
+
 ## Create a new project
 - e.g. powerflex
 
