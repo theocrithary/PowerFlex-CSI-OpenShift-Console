@@ -1,7 +1,7 @@
 - username: "admin"
   password: "#########"
   systemID: "#########"
-  endpoint: "https://#########:8443"
+  endpoint: "https://####gateway server ip#####"
   skipCertificateValidation: true
   isDefault: true
   mdm: "192.168.x.x,192.168.x.x"
